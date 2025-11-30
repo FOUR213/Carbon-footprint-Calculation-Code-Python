@@ -29,7 +29,6 @@ carbon-footprint-quiz/
 │
 ├── README.md
 ├── carbon_quiz.py
-└── LICENSE (optional)
 ```
 
 ---
@@ -72,17 +71,3 @@ The final score determines your carbon footprint category:
 | Accuracy | Medium | High |
 | Best for | Quick estimate | Detailed footprint |
 | Scoring | 0–30 | 0–90 |
-
----
-
-## 📜 License
-
-MIT License (or choose your own)
-
----
-
-## 👨‍💻 Author
-
-Made by Vishal (Class 9)  
-Project created using Python for a clean and lightweight carbon assessment tool.
-
